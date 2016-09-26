@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 26 11:11:26 2016
 
-@author: neelima
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 26 11:10:07 2016
-
-@author: neelima
-"""
 
 import sys
 import random
