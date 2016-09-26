@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 26 11:13:10 2016
 
-@author: neelima
-"""
 
 import sys
 
