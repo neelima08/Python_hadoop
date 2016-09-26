@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 26 11:07:26 2016
 
-@author: neelima
-"""
 
 import os
 import re
